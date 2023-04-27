@@ -1,2 +1,4 @@
-# BootCamp-Java-EducacionIT
-Repositorio para entregar los trabajos del bootcamp java de educación IT
+# Bootcamp Java EducacionIT 2023
+## Se creo un branch "Entregas" donde estaran las entregas de los desafios del bootcamp
+- Santino mercapide
+- mercapidesantino@gmail.com
