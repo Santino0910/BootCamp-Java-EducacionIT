@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+.contenedor{
+    margin-left: 100px;
+}
+
 .color1{
     color: #0a2ff1;
 }
@@ -15,12 +19,12 @@
 .tittle{
     font-family: 'MuseoModerno';
     font-size: 88pt;
-    font-weight: bold;
 }
 
 .desc{
     font-family: 'Asap', sans-serif;
     font-size: 39pt;
+    padding-bottom: 100px;
 }
 
 .p{
@@ -28,21 +32,25 @@
     font-size: 25pt;
 }
 
+.p2{
+    margin-top: 50px;
+}
+
 .tittleUL{
     font-family: 'MuseoModerno', cursive;
     font-size: 36pt;
-    font-weight: bold;
+    margin-top: 50px;
 }
 
 .li{
     font-family: 'Asap', sans-serif;
     font-size: 25pt;
-    font-weight: bold;
+    margin-left: 30px;
 }
 
 .modo{
     font-family: 'MuseoModerno', cursive;
     font-size: 149pt;
-    font-weight: bold;
     color: #8a9af1;
 }
+
