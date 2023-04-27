@@ -6,14 +6,14 @@
 
 h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 50pt;
+    font-size: 66px;
     font-weight: 900;
     color: #0a2ff1
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
-    font-size: 148pt;
+    font-size: 197px;
     font-weight: 900;
     background-color: black;
     color: white;
@@ -21,20 +21,20 @@ h2{
 
 h3{
     font-family: 'Montserrat', sans-serif;
-    font-size: 163pt;
+    font-size: 217px;
     font-weight: 900;
 }
 
 .p1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 36pt;
+    font-size: 49px;
     font-weight: 600;
     color: #0a2ff1;
 }
 
 .p2{
     font-family: 'Montserrat', sans-serif;
-    font-size: 44pt;
+    font-size: 58px;
     font-weight: 600;
     color: #0a2ff1;
 }
