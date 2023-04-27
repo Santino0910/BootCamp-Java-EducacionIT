@@ -1,0 +1,48 @@
+*{
+    background-color: #edf7ff;
+    margin: 0;
+    padding: 0;
+}
+
+.color1{
+    color: #0a2ff1;
+}
+
+.color2{
+    color: #04146c;
+}
+
+.tittle{
+    font-family: 'MuseoModerno';
+    font-size: 88pt;
+    font-weight: bold;
+}
+
+.desc{
+    font-family: 'Asap', sans-serif;
+    font-size: 39pt;
+}
+
+.p{
+    font-family: 'Asap', sans-serif;
+    font-size: 25pt;
+}
+
+.tittleUL{
+    font-family: 'MuseoModerno', cursive;
+    font-size: 36pt;
+    font-weight: bold;
+}
+
+.li{
+    font-family: 'Asap', sans-serif;
+    font-size: 25pt;
+    font-weight: bold;
+}
+
+.modo{
+    font-family: 'MuseoModerno', cursive;
+    font-size: 149pt;
+    font-weight: bold;
+    color: #8a9af1;
+}
