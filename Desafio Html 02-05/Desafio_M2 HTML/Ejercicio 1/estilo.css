@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 59pt;
+    font-weight: 700;
+    color: #0a2ff1;
+}
+
+strong{
+    background-color: #3ffff3;
+}
+
+p{
+    font-size: 23pt;
+    font-weight: 500;
+    color: #0a2ff1;
+}
+
+.imagenes{
+    background-image: url(fondo.JPG);
+    background-position: center bottom;
+    background-repeat: repeat-x;
+    width: 40%;
+}
