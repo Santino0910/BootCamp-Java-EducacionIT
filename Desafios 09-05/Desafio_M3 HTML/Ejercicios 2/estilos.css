@@ -1,0 +1,36 @@
+img{
+    width: 30%;
+}
+
+.button{
+    margin-bottom: 10px;
+    margin-top: 30px;
+    padding: 10px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 30.06px;
+    color: white;
+    background-color: #8a9af1;
+}
+
+p{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 30.06px;
+    color: #0a2ff1;
+    background-color: #eff2ff;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+h1{
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 66.66px;
+    color: #0a2ff1;
+}
+
+.fotos{
+    border-bottom: 5px solid #3ffff3;
+}
