@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap');
+
+body{
+    background-color: #3957f1;
+    margin: 0px;
+}
+
+nav{
+    padding-left: 20px;
+    color: #04146c;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    align-items: center;
+    display: flex;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+ul li{
+    padding: 30px;
+}
+
+.p1{
+    margin: 0px;
+    padding: 0px;
+    background-color: #3957f1;
+}
+
+.logo{
+    width: 5%;
+}
+
+
+
+.p3{
+    background-color: white;
+    background-image: url(media/M5-Desafio3-img.png);
+    background-repeat: no-repeat;
+    background-position: right 80px bottom -70px;
+    background-size: contain;
+}
+
+.cont{
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+
+footer{
+    height: 60px;
+    background-color: #3957f1;
+}
+
+.logof{
+    width: 8%;
+    padding-left: 5%;
+    display: flex;
+}
+
+header{
+    text-align: center;
+    background-color: white;
+    padding-bottom: 40px;
+    margin-top: 20px;
+}
+
+
+.activo{
+    font-weight: 700;
+}
+
+
+h1{
+    color: #0a2ff1;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 96px;
+    letter-spacing: 2px;
+}
+
+h2{
+    color: #0a2ff1;
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+p{
+    color: #04146c;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 34px;
+    margin: 0;
+}
+
+.p3 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+
+img{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
