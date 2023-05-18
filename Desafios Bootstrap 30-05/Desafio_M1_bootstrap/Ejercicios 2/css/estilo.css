@@ -1,0 +1,27 @@
+.h1{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 700 !important;
+    color: #0a2ff1 !important;
+    font-size: 5rem !important;
+}
+
+.title{
+    padding: 0px !important;
+    margin: 0px !important;
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 700 !important;
+    color: white !important;
+    font-size: 1.5rem !important;
+
+}
+
+
+.desc{
+    padding: 0px !important;
+    margin: 0px !important;
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 400 !important;
+    color: white !important;
+    font-size: 0.8rem !important;
+    
+}
