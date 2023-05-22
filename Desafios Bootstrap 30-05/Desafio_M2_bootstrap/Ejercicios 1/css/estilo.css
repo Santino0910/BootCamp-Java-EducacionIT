@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 700 !important;
+    color: #04146c !important;
+    font-size: 4rem !important;
+}
+
+.name{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 700 !important;
+    color: #0a2ff1 !important;
+    font-size: 2.5rem !important;
+}
+
+.desc{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 700 !important;
+    color: #04146c !important;
+    font-size: 1.5rem !important;
+}
+
+.text{
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 400 !important;
+    color: #04146c !important;
+    font-size: 1.5rem !important;
+}
+
+.btn-mio{
+    border: 1px solid #04146c !important;
+    background-color: white;
+    font-family: 'Mulish', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 1.0rem !important;
+    color: #04146c !important;
+}
