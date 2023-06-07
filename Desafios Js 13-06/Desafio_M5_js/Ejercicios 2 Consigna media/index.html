@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilo.css">
+    <title>ArgenFin</title>
+</head>
+<body>
+    <header> 
+        <nav class="header">
+            <div class="container p-2 text-center">
+              <span class="">ArgenFin</span>
+            </div>
+          </nav>
+    </header>
+
+    <div class="container text-center"> 
+            <form class="row align-items-center needs-validation" id="datos" novalidate>
+                <div class="col-md-12 p-1">
+                    <label for="costosf" class="form-label p-1">Presupuesto</label>
+                    <input type="number" class="form-control" id="costosf" required>
+                </div>
+
+                <div class="col-md-4 p-1">
+                    <label for="pgc" class="form-label p-1">Porcentaje para gastos necesarios</label>
+                    <input type="number" class="form-control" id="pgc" required>
+                </div>
+
+                <div class="col-md-4 p-1">
+                    <label for="pgo" class="form-label p-1">Porcentaje para gastos Opcionales</label>
+                    <input type="number" class="form-control" id="pgo" required>
+                </div>
+
+                <div class="col-md-4 p-1">
+                    <label for="pai" class="form-label p-1">Ahorro y inversion</label>
+                    <input type="number" class="form-control" id="pai" required>
+                </div>
+
+
+
+                <div class="col-12 p-1">
+                    <button class="btn btn-primary" type="submit">Calcular</button>
+                  </div>
+            </form>
+
+    </div>
+
+    <script type='module' src="main.js"></script>
+</body>
+</html>
